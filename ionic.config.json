@@ -1,0 +1,8 @@
+{
+  "name": "ion-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "000da9f7"
+}
